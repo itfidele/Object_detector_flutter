@@ -1,4 +1,4 @@
-# Object_detector_flutter
+# Object Detector Flutter & Tensorflow
 
 A new Flutter project.
 
